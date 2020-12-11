@@ -1,5 +1,5 @@
 
-
+import React from "react";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           all rights is reserved  
       </footer>
     </div>
-  ); 
+  );
 }
 
 export default App;
