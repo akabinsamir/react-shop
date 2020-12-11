@@ -14,7 +14,7 @@ function App() {
           all rights is reserved  
       </footer>
     </div>
-  );
+  ); 
 }
 
 export default App;
